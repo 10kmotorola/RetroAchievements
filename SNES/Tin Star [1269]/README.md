@@ -1,5 +1,5 @@
-Achievements by [orchidcnr](https://retroachievements.org/user/orchidcnr)
-Rich Presence by [orchidcnr](https://retroachievements.org/user/orchidcnr)
-Leaderboards by [orchidcnr](https://retroachievements.org/user/orchidcnr)
-Badges by [orchidcnr](https://retroachievements.org/user/orchidcnr)
+Achievements by [orchidcnr](https://retroachievements.org/user/orchidcnr)<br>
+Rich Presence by [orchidcnr](https://retroachievements.org/user/orchidcnr)<br>
+Leaderboards by [orchidcnr](https://retroachievements.org/user/orchidcnr)<br>
+Badges by [orchidcnr](https://retroachievements.org/user/orchidcnr)<br>
 Icon by [orchidcnr](https://retroachievements.org/user/orchidcnr)
