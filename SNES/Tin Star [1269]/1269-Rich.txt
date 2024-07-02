@@ -1,0 +1,57 @@
+Format:Score
+FormatType=VALUE
+
+Lookup:Level
+0x00=riding on the East Driftwood Stage
+0x01=in a bar fight
+0x02=riding on Aluminum
+0x03=giving Tiny Johnson a hanky
+0x04=train hopping
+0x05=watching over the covered wagons
+0x06=sending Snake Oil to Boot Hill
+0x07=protecting the jail
+0x08=chasing after Snake Oil
+0x09=showing Bugsy who's the wiseguy
+0x0a=exploiting loopholes
+0x0b=protecting the bank
+0x0c=revealed to be Gary Cooper
+0x0d=putting the kettle on
+0x0e=train hopping after Black Bart
+0x0f=fleeing the crash site
+0x10=running from no-one, mister
+0x11=following the Good Guy Rules of the West
+0x12=being framed
+0x13=getting kicked out of town
+0x14=in disguise
+0x15=getting rid of old habits
+0x16=revealing his innocence
+0x17=chasing after the Bad Oil Gang
+0x18=mourning the loss of a friend
+0x19=getting revenge against Black Bart
+0x1a=shooting jugs
+0x1b=shooting jugs
+0x1c=shooting jugs
+0x1d=shooting jugs
+0x1e=shooting jugs
+0x1f=shooting jugs
+0x20=preparing for the next level
+0x21=in the main menu
+
+Lookup:Lives
+0xff=0
+0x00=1
+0x01=2
+0x02=3
+0x03=4
+0x04=5
+0x05=6
+0x06=7
+0x07=8
+0x08=9
+0x09=10
+
+Display:
+?p0xh9f2=26_0xh9f2=6?Tin Star married the love of his life, probably! | 🚶 @Lives(0xh928) | 💰 @Score(0xh7d8*1000000_0xh7d9*100000_0xh7da*10000_0xh7db*1000_0xh7dc*100_0xh7dd*10)
+Tin Star is @Level(0xh9f2) | 🚶 @Lives(0xh928) | 💰 @Score(0xh7d8*1000000_0xh7d9*100000_0xh7da*10000_0xh7db*1000_0xh7dc*100_0xh7dd*10)
+
+//RP by orchid (shoutout Fridge)

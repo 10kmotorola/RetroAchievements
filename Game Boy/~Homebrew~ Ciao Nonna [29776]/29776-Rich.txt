@@ -1,0 +1,14 @@
+//RP by orchid 2024-05-14
+
+Lookup:Loc //0xc24d
+0x01=on the title screen
+0x02=on the pier with a little fuzzy baby
+0x03=watching a cutscene
+0x04=watching a cutscene
+0x05=at the beach
+0x07=attending Nadia's funeral
+0x09=on the pier
+
+Display:
+?p0xHc24d=7_0xHc24d=1?Ofelia is watching the end credits 🏳️‍🌈
+Ofelia is @Loc(0xhc24d) 🏳️‍🌈

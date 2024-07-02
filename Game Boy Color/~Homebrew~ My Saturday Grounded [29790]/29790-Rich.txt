@@ -1,0 +1,24 @@
+//RP by orchid 2024-06-05
+
+Lookup:Loc //0xc6ae
+0x00=in his bedroom
+0x01=in his house
+0x02=wandering around the neighbourhood
+0x03=on the title screen
+0x04=in Leo's garage
+0x05=on the path to the treehouse
+0x06=looking over his objectives
+0x07=brooding at the designated moody hangout spot
+0x08=in the treehouse
+0x09=in Mrs. Milani's house
+0x0a=in the treehouse
+0x0b=in the school's boiler building
+0x0c=watching the end credits
+0x0d=spending time with Leo in the treehouse
+0x0f=in Leo's bedroom
+0x10=in the school supply closet
+0x11=spending time with Leo in the treehouse
+*=thinking about Leo
+
+Display:
+Tim is @Loc(0xhc6ae) 🏳️‍🌈
