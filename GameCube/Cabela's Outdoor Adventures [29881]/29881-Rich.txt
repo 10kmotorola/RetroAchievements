@@ -1,0 +1,122 @@
+//RP by orchid 2024-06-28
+
+Lookup:RANK //$0xb49b04
+0x00=Rookie
+0x01=Novice
+0x02=Veteran
+0x03=Expert
+0x04=Expert★
+0x05=Expert★★
+0x06=Expert★★★
+0x07=Expert★★★★
+0x08=Expert★★★★★
+
+Lookup:CHAR //$0xb496ac
+0x05=Woody
+0x06=Katie Ann
+0x07=B.L.
+0x08=Erica
+0x09=Jimmy D.
+*=Hunter
+
+Lookup:DIF //$0xb49718
+0x00=Greenhorn
+0x01=Sportsman
+0x02=Simulation
+
+Lookup:MODE //$0x49d30c
+0x03=Hunt:
+0x04=Open Season:
+0x06=Target Range:
+0x07=Contest:
+0x08=Mission:
+
+Lookup:MAP //$0x801318
+0x7e2475e8,0x7e2475f0=Indoor Shooting Range
+0x7e26ada0,0x7e26ada8=Skeet Shooting Range
+0x7e274228,0x7e274230=Trap Shooting Range
+0x7e2f4c00,0x7e2f4c08=Clay Shooting Range
+0x7e301ca8,0x7e301cb0=Kerr County - Spring
+0x7e309a78,0x7e309a80=Kerr County - Winter
+0x7e33d968,0x7e33d970=Prince of Wales Island - Summer
+0x7e33de50,0x7e33de58=Prince of Wales Island - Fall
+0x7e34e020,0x7e34e028=Delta County - Winter
+0x7e34f360,0x7e34f368=Delta County - Fall
+0x7e353c40,0x7e353c48=Southern Alps - Winter
+0x7e35bc58,0x7e35bc60=Southern Alps - Fall
+0x7e36cca8,0x7e36ccb0=Saskatchewan - Winter
+0x7e37c780,0x7e37c788=Saskatchewan - Fall
+0x7e37ca98,0x7e37caa0=White Pine County - Summer
+0x7e37cc18,0x7e37cc20=White Pine County - Fall
+0x7e3842f0,0x7e3842f8=Taylor's Island - Fall
+0x7e382c28,0x7e382c30=Henry Mountains - Fall
+0x7e3892d8,0x7e3892e0=Henry Mountains - Summer
+0x7e38ce88,0x7e38ce90=West Klickitat - Fall
+0x7e39bd48,0x7e39bd50=Chihuahua - Summer
+0x7e39c3c0,0x7e39c3c8=West Klickitat - Winter
+0x7e39c5f0,0x7e39c5f8=Taylor's Island - Winter
+0x7e39cb00,0x7e39cb08=Chihuahua - Fall
+0x7e3a6ca8,0x7e3a6cb0=Washington County - Winter
+0x7e3b4f58,0x7e3b4f60=Washington County - Fall
+*=📀 Loading...
+
+Lookup:GUN //$0xb4b364
+0x00=.22 LR S-A.R.
+0x01=.22-250 B-A.R.
+0x02=.243 S-A.R.
+0x03=.270 B-A.R.
+0x04=.280 P-A.R.
+0x05=.30-30 L.A.R.
+0x06=.30-06 B-A.R.
+0x07=.308 B-A.R.
+0x08=.308 S-A.R.
+0x09=7mm M.S-A.R.
+0x0a=.338 Magnum
+0x0b=Muzzleloader
+0x0c=12-Ga A.S.
+0x0d=12-Ga P.S.
+0x0e=12-Ga O.U.S.
+0x0f=.357 Magnum
+0x10=.500 Magnum
+0x11=Recurve Bow
+0x12=Compound Bow
+0xff=Unarmed
+
+Format:NUM
+FormatType=VALUE
+
+Display:
+?0xG493fdc=0?📀 Booting...
+?0xG49d30c=4_0xG46a680=4294967295?[@DIF(0xGb49718)] Open Season: 📀 Loading...
+?0xG49d30c=4_O:0xG801318=2117082280_0xG801318=2117082288?[@DIF(0xGb49718)] Open Season: Kerr County - Spring | 🔫.357 Magnum
+?0xG49d30c=4_O:0xG801318=2117114488_0xG801318=2117114496?[@DIF(0xGb49718)] Open Season: Kerr County - Winter | 🔫12-Ga P.S.
+?0xG49d30c=4_O:0xG801318=2117327208_0xG801318=2117327216?[@DIF(0xGb49718)] Open Season: Prince of Wales Island - Summer | 🔫Muzzleloader
+?0xG49d30c=4_O:0xG801318=2117328464_0xG801318=2117328472?[@DIF(0xGb49718)] Open Season: Prince of Wales Island - Fall | 🔫12-Ga O.U.S.
+?0xG49d30c=4_O:0xG801318=2117394464_0xG801318=2117394472?[@DIF(0xGb49718)] Open Season: Delta County - Winter | 🔫.30-30 L.A.R.
+?0xG49d30c=4_O:0xG801318=2117399392_0xG801318=2117399400?[@DIF(0xGb49718)] Open Season: Delta County - Fall | 🔫Compound Bow
+?0xG49d30c=4_O:0xG801318=2117418048_0xG801318=2117418056?[@DIF(0xGb49718)] Open Season: Southern Alps - Winter | 🔫Muzzleloader
+?0xG49d30c=4_O:0xG801318=2117450840_0xG801318=2117450848?[@DIF(0xGb49718)] Open Season: Southern Alps - Fall | 🔫Compound Bow
+?0xG49d30c=4_O:0xG801318=2117520552_0xG801318=2117520560?[@DIF(0xGb49718)] Open Season: Saskatchewan - Winter | 🔫Compound Bow
+?0xG49d30c=4_O:0xG801318=2117584768_0xG801318=2117584776?[@DIF(0xGb49718)] Open Season: Saskatchewan - Fall | 🔫.357 Magnum
+?0xG49d30c=4_O:0xG801318=2117585560_0xG801318=2117585568?[@DIF(0xGb49718)] Open Season: White Pine County - Summer | 🔫12-Ga O.U.S.
+?0xG49d30c=4_O:0xG801318=2117585944_0xG801318=2117585952?[@DIF(0xGb49718)] Open Season: White Pine County - Fall | 🔫.243 S-A.R.
+?0xG49d30c=4_O:0xG801318=2117616368_0xG801318=2117616376?[@DIF(0xGb49718)] Open Season: Taylor's Island - Fall | 🔫Muzzleloader
+?0xG49d30c=4_O:0xG801318=2117610536_0xG801318=2117610544?[@DIF(0xGb49718)] Open Season: Henry Mountains - Fall | 🔫.357 Magnum
+?0xG49d30c=4_O:0xG801318=2117636824_0xG801318=2117636832?[@DIF(0xGb49718)] Open Season: Henry Mountains - Summer | 🔫Recurve Bow
+?0xG49d30c=4_O:0xG801318=2117652104_0xG801318=2117652112?[@DIF(0xGb49718)] Open Season: West Klickitat - Fall | 🔫Muzzleloader
+?0xG49d30c=4_O:0xG801318=2117713224_0xG801318=2117713232?[@DIF(0xGb49718)] Open Season: Chihuahua - Summer | 🔫Recurve Bow
+?0xG49d30c=4_O:0xG801318=2117714880_0xG801318=2117714888?[@DIF(0xGb49718)] Open Season: West Klickitat - Winter | 🔫.22-250 B-A.R.
+?0xG49d30c=4_O:0xG801318=2117715440_0xG801318=2117715448?[@DIF(0xGb49718)] Open Season: Taylor's Island - Winter | 🔫.30-06 B-A.R.
+?0xG49d30c=4_O:0xG801318=2117716736_0xG801318=2117716744?[@DIF(0xGb49718)] Open Season: Chihuahua - Fall | 🔫Muzzleloader
+?0xG49d30c=4_O:0xG801318=2117758120_0xG801318=2117758128?[@DIF(0xGb49718)] Open Season: Washington County - Winter | 🔫.270 B-A.R.
+?0xG49d30c=4_O:0xG801318=2117816152_0xG801318=2117816160?[@DIF(0xGb49718)] Open Season: Washington County - Fall | 🔫12-Ga A.S.
+?0xG46a680=45?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Menu | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG46a680=26?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Deer Country | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117082280?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Break B.L.'s Record | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117399392?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Break Woody's Record | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117450840?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Break Jimmy's Record | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117584768?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Trophy Counter | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117585944?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Break Katie Ann's Record | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117636824?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Archery Contest | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+?0xG49d30c=7_0xG801318=2117716736?@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] Contest: Break Erica's Record | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
+@RANK(0xGb49b04) @CHAR(0xIb496ac) | [@DIF(0xGb49718)] @MODE(0xG49d30c) @MAP(0xG801318) | $@NUM(0xGb496a8) | 🔫@GUN(0xhb4b364)
